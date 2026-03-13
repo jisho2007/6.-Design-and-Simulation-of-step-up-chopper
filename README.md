@@ -46,5 +46,10 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+<img width="1520" height="627" alt="Screenshot 2026-03-13 224754" src="https://github.com/user-attachments/assets/2d84fb31-ee52-4fc0-b17d-aabd691286fe" />
+
 ## Output
+<img width="1908" height="888" alt="Screenshot 2026-03-13 224906" src="https://github.com/user-attachments/assets/8cb53031-a824-4f8b-b22b-10d208217993" />
+
 ## Result
+Thus the experiment was stimulated and output was verified succesfully
